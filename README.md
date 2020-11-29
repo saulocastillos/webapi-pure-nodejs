@@ -1,9 +1,8 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Webapi Pure Nodejs" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Webapi Pure Nodejs" width='300px' />
 
   &#xa0;
 
-  <!-- <a href="https://webapipurenodejs.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Webapi Pure Nodejs</h1>
@@ -14,18 +13,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/saulocastillos/webapi-pure-nodejs?color=56BEB8?style=for-the-badge&logo=appveyor">
 
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/webapi-pure-nodejs?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/webapi-pure-nodejs?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/webapi-pure-nodejs?color=56BEB8" /> -->
 </p>
-
-Status
-
-<h4 align="center"> 
-	🚧  Webapi Pure Nodejs 🚀 Under construction...  🚧
-</h4> 
 
 <hr> 
 
