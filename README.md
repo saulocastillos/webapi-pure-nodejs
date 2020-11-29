@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center">Webapi Pure Nodejs</h1>
+<h1 align="center">WebApi Pure NodeJS</h1>
 
 <p align="center">
   <img alt="javascript" src="https://img.shields.io/github/languages/top/saulocastillos/webapi-pure-nodejs?color=yellow?style=for-the-badge&logo=javascript">
@@ -76,7 +76,8 @@ $ npm run dev
 
 ```bash
 
-# You could fetch with your preferred REST Client, but we sourcing to you a bash with some commands ready for using in linux bash terminals.
+# You could fetch with your preferred REST Client, but we sourcing to you 
+# a bash with some commands ready for using in linux bash terminals.
 
 # Acces webapi directory
 $ cd webapi
